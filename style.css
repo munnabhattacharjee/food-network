@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    color: gray;
+}
+hr{
+    width: 50%;
+    height: 2px;
+    color: gray;
+    background-color: gray;
+    margin-top: 20px;
+}
+.intro-bg{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 50px 10% 50px 10%;
+    text-align: justify;
+}
+.intro-font{
+    font-size: 50px;
+}
+.intro-font-color{
+    color: #f53b57;
+}
+.link-order-food{
+    text-decoration: none;
+    background-image: linear-gradient(to right,#ED4C67,#d63031);
+    padding: 10px 25px;
+    color: honeydew;
+    border-radius: 50px;
+}
+.img-intro{
+    width: 90%;
+}
