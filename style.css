@@ -82,3 +82,23 @@ hr{
     height: 50%;
     border-radius: 20px;
 }
+.social-media-box{
+    width: 86.5%;
+    padding: 1%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 6%;
+    margin-right: 6%;
+    box-shadow: 20px 20px 100px black;
+    border-radius: 25px;
+}
+.social-media-area{
+    padding-left: 12%;
+    padding-right: 12%;
+    text-align: center;
+}
+.social-media-heading{
+    font-size: 50px;
+    color: black;
+    margin: 0;
+}
