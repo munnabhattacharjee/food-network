@@ -36,6 +36,22 @@ hr{
     color: honeydew;
     border-radius: 50px;
 }
-.img-intro{
+.img-focus{
     width: 90%;
+}
+.about-bg{
+    background-image: url(images/bg-2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.about-font{
+    font-size: 40px;
+}
+.link-contact-us{
+    background-image: linear-gradient(to right,#d63031,#ED4C67);
+    text-decoration: none;
+    padding: 10px 25px;
+    color: honeydew;
+    border-radius: 50px;
+    
 }
