@@ -26,7 +26,7 @@ hr{
 .intro-font{
     font-size: 50px;
 }
-.intro-font-color{
+.font-color{
     color: #f53b57;
 }
 #link-order-food{
@@ -54,10 +54,10 @@ hr{
     color: honeydew;
     border-radius: 50px;   
 }
-#recipe-heading{
+.center-heading{
     text-align: center;
 }
-.dish-box{
+.recipe-box{
     width: 100%;
     border-radius: 25px;
     padding: 20px;
@@ -65,17 +65,19 @@ hr{
     margin: 5% 7% 5% 7%;
     text-align: justify;
 }
-#recipe-img1{
+.recipe-img{
     width: 100%;
     height: 50%;
     border-radius: 20px;
 }
-#recipe-img2{
+.review-box{
     width: 100%;
-    height: 50%;
-    border-radius: 20px;
+    border-radius: 25px;
+    padding: 20px;
+    box-shadow: 10px 10px 50px black;
+    margin: 5% 7% 5% 7%;
 }
-#recipe-img3{
+.review-img{
     width: 100%;
     height: 50%;
     border-radius: 20px;
