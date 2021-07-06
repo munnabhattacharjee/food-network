@@ -29,7 +29,7 @@ hr{
 .intro-font-color{
     color: #f53b57;
 }
-.link-order-food{
+#link-order-food{
     text-decoration: none;
     background-image: linear-gradient(to right,#ED4C67,#d63031);
     padding: 10px 25px;
@@ -47,10 +47,10 @@ hr{
 .highlight-font{
     font-size: 40px;
 }
-.link-contact-us{
+#link-contact-us{
     background-image: linear-gradient(to right,#d63031,#ED4C67);
     text-decoration: none;
-    padding: 10px 25px;
+    padding: 10px 30px;
     color: honeydew;
     border-radius: 50px;   
 }
@@ -59,10 +59,11 @@ hr{
 }
 .dish-box{
     width: 100%;
-    border-radius: 20px;
-    padding: 20px 20px 20px 20px;
+    border-radius: 25px;
+    padding: 20px;
     box-shadow: 10px 10px 50px black;
     margin: 5% 7% 5% 7%;
+    text-align: justify;
 }
 #recipe-img1{
     width: 100%;
